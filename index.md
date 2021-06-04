@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 目前我开源的项目
 
-You can use the [editor on GitHub](https://github.com/sposer/sposer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+1. [Fake-Blue-Screen](https://github.com/sposer/FakeBlueScreen)
+   - 假的win10蓝屏
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. [copy-translate](https://github.com/sposer/copy-translate)
+   - 实时复制的东西翻译再弹个小窗显示
 
-### Markdown
+3. [ELGIF](https://github.com/sposer/ELGIF)
+   - 一个处理GIF的软件
+4. [Voice-E](https://github.com/sposer/VoiceE)
+   - 提取视频的声音的安卓软件
+5. [VTP](https://github.com/sposer/VTP)
+   - 将视频转图片集的安卓软件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 说明
 
-```markdown
-Syntax highlighted code block
+​	这些都是非专业的我为了一时的想法而做的东西，他们的开发时间跨度很短很短，bug什么的已经无所谓了。
 
-# Header 1
-## Header 2
-### Header 3
+​	我的技术水平很低，目前这样能实现想法的程度就很好。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sposer/sposer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+​	有时候回看之前写的东西总感觉很弱（实际正是这样），不管是语法还是其中的算法，我把这当作成长-o’.‘o-，靠这些自娱自乐还是不错的。
