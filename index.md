@@ -1,17 +1,22 @@
 ## 目前我开源的项目
 
 1. [Fake-Blue-Screen](https://github.com/sposer/FakeBlueScreen)
-   - 假的win10蓝屏
+
+   假的win10蓝屏
 
 2. [copy-translate](https://github.com/sposer/copy-translate)
-   - 实时复制的东西翻译再弹个小窗显示
+
+   实时复制的东西翻译再弹个小窗显示
 
 3. [ELGIF](https://github.com/sposer/ELGIF)
-   - 一个处理GIF的软件
+
+   一个处理GIF的软件
 4. [Voice-E](https://github.com/sposer/VoiceE)
-   - 提取视频的声音的安卓软件
+
+   提取视频的声音的安卓软件
 5. [VTP](https://github.com/sposer/VTP)
-   - 将视频转图片集的安卓软件
+
+   将视频转图片集的安卓软件
 
 ## 说明
 
